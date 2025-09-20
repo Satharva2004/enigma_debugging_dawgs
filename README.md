@@ -6,10 +6,10 @@ Vikas.AI is a comprehensive web-based platform designed to empower individuals w
 
 ## Team Members
 
-### 1. Umair Momin - The UltraDev
-### 2. Atharva Sawant - The AI God
-### 3. Gandhar Bagde - The Gangster
-### 4. Paras Kumbhar - The Pitcher
+ 1. Umair Momin - The UltraDev
+ 2. Atharva Sawant - The AI God
+ 3. Gandhar Bagde - The Gangster
+ 4. Paras Kumbhar - The Pitch Crafter
 
 ## Problem Statement
 Underserved populations (rural households, students, women, elderly) often lack trust
